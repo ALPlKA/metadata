@@ -1,0 +1,11 @@
+{
+  "name": "DUROVTON",
+  "symbol": "DVT",
+  "description": "A meme coin dedicated to Pavel Durov",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/ALPlKA/imagedurov/main/DUROVTON.png",
+  "attributes": [
+    {"trait_type": "funny", "value": "extremely"}
+  ],
+  "collection": {"name": "Durov Memes", "family": "Meme Coins"}
+}
